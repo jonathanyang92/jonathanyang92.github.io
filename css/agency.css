@@ -560,7 +560,7 @@ aside.clients img{margin:50px auto}
 
 section#contact{
 	background-color:#222;
-	background-image:url(../img/map-image-1.png);
+	background-image:url(../img/background_2.jpg);
 	background-position:center;
 	background-repeat:no-repeat;
 	background-size: 100%;
@@ -1039,9 +1039,14 @@ strong{
 .footer{
 	position: relative;
 	text-align: center;
-	top: 100px;
-	font-size: 8px;
-	color: #8c8c8c;
+	top: 90px;
+	font-size: 9px;
+	color: #a5a5a5;
 	margin-bottom: 0;
 	font-weight: 100;
+}
+
+#contactnote{
+	line-height: 26px;
+	color: #9a9a9a;
 }
