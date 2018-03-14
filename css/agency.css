@@ -868,7 +868,7 @@ body{webkit-tap-highlight-color:#fed136}
 	height: 200px;
 	border-radius: 8px;
 	box-shadow: 0 2px 2px 2px #d8d8d8;
-	margin-right: 20px;
+	margin-right: 16px;
 	margin-bottom: 20px;
 	padding-top: 10px;
 	background-color: #ffffff;
@@ -890,8 +890,6 @@ body{webkit-tap-highlight-color:#fed136}
 	margin-top: -30px;
 	opacity: .2;
 }
-
-.card_list_method li:last-of-type{margin-right: 0;}
 
 .card_list_p1 li{
 	height: 450px;
