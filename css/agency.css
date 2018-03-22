@@ -7,6 +7,17 @@ body{
 	color:#777;
 }
 
+.points{
+	color: #777;
+	list-style: none;
+	padding-left: 0;
+	line-height: 26px;
+	width: 100%;
+}
+
+.points li{
+}
+
 .text-primary{color:#fed136}
 
 p{font-size:14px;line-height:1.75}
